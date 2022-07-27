@@ -1,0 +1,9 @@
+//
+// Created by birlutiuclaudiu on 07.01.2022.
+//
+
+#ifndef BIRLUTIUPROJECT_ANIMATION_H
+#define BIRLUTIUPROJECT_ANIMATION_H
+
+#endif //BIRLUTIUPROJECT_ANIMATION_H
+

@@ -1,0 +1,3 @@
+/home/birlutiuclaudiu/Facultate/An3_sem1/PG/A_PROIECT/BirlutiuProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/birlutiuclaudiu/Facultate/An3_sem1/PG/A_PROIECT/BirlutiuProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/birlutiuclaudiu/Facultate/An3_sem1/PG/A_PROIECT/BirlutiuProject/cmake-build-debug/CMakeFiles/BirlutiuProject.dir

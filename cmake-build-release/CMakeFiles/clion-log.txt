@@ -1,0 +1,4 @@
+/home/birlutiuclaudiu/Documents/Programe/Clion/clion-2021.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/birlutiuclaudiu/Facultate/An3_sem1/PG/A_PROIECT/BirlutiuProject
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/birlutiuclaudiu/Facultate/An3_sem1/PG/A_PROIECT/BirlutiuProject/cmake-build-release
